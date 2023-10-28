@@ -187,7 +187,7 @@ These tools are my allies in my mission to understand, create, and innovate in t
 
 ### Github Throphies
 
-![](https://github-profile-trophy.vercel.app/?username=AProgramFailure=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AProgramFailure&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 
 <hr>
@@ -200,12 +200,12 @@ These tools are my allies in my mission to understand, create, and innovate in t
 
 ### Github Streak
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AProgramFailure=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AProgramFailure&theme=radical&hide_border=false)
 
 <hr>
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AProgramFailure&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AProgramFailure&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr>
