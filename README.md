@@ -89,6 +89,17 @@ align perfectly with my desire to create innovative solutions.
 	<a href="https://github.com/AProgramFailure"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 </p>
 
+<hr>
+
+<pre>
+As a passionate and self-taught software engineer and developer,
+I love exploring a diverse range of programming languages and frameworks 
+like TypeScript, Rust, Go, Nim, OCaml, and more. 
+Each one offers unique solutions and avenues for creative problem-solving, 
+making the world of coding endlessly fascinating.
+</pre>
+<hr>
+
 ### 🧰 Frameworks and Libraries
 
 <p>
@@ -102,9 +113,19 @@ align perfectly with my desire to create innovative solutions.
       	<a href="https://github.com/AProgramFailure"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=61DAFB"></a>
  	<a href="https://github.com/AProgramFailure"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=61DAFB"></a>
-  	<a href="https://github.com/AProgramFailure"><img alt="Redux" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whit"></a>
+  	<a href="https://github.com/AProgramFailure"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whit"></a>
        	<a href="https://github.com/AProgramFailure"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
+
+<hr>
+<pre>
+With a decade of experience in software engineering and development, my passion for 
+creating knows no bounds. These programming frameworks resonate with me because they 
+empower me to build versatile, scalable, and efficient solutions. Frameworks such as 
+Nuxt, Next, Phoenix, Tauri, Kubernetes, and Terraform provide the tools I need for dynamic,
+robust projects.
+</pre>
+<hr>
 
 ### 🗄️ Databases and Cloud Hosting
 
@@ -120,9 +141,16 @@ align perfectly with my desire to create innovative solutions.
 	<a href="https://github.com/AProgramFailure"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Google_Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-	<a href="https://github.com/AProgramFailure"><img alt="GitHub Pages" src="https://img.shields.io/badge/SurrealDB-07405E?style=for-the-badge&logo=surrealdb&logoColor=white"></a>
-	<a href="https://github.com/AProgramFailure"><img alt="GitHub Pages" src="https://img.shields.io/badge/SurrealDB-07405E?style=for-the-badge&logo=surrealdb&logoColor=white"></a>
 </p>
+
+<hr>
+<pre>
+As a passionate self-taught software engineer and developer, I have a deep appreciation for
+a diverse array of databases and cloud hosting platforms. The above listed Databses offer powerful options for data management, 
+catering to various projects of mine. Moreover, platforms like SurrealDB, Supabase,Netlify and Amazon AWS provide me 
+with the scalability and flexibility I need to bring my creations to life. 
+</pre>
+<hr>
 
 ### 💻 Software and Tools
 
@@ -136,6 +164,16 @@ align perfectly with my desire to create innovative solutions.
   	<a href="https://github.com/AProgamFailure"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"></a>
  	<a href="https://github.com/AProgamFailure"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 </p>
+
+<hr>
+<pre>
+Colab and Jupyter provide an ideal environment for data exploration and analysis. 
+Git and GitLab empower collaborative coding, while Atlassian streamlines project management. 
+Obsidian organizes my thoughts efficiently, and Neovim and Visual Studio Code enhance my coding experience.
+These tools are my allies in my mission to understand, create, and innovate in the digital landscape.
+</pre>
+<hr>
+
 
 ### 🌌 Operating Systems
 <p>
