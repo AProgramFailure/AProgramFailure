@@ -38,10 +38,9 @@ In a digital world that's constantly evolving, I find myself navigating through 
 With an unwavering commitment to crafting solutions, I am extremely enthusiastic about the art of creation. Welcome to my GitHub developer page, where my dedication to code and innovation is showcased. Let's embark on a journey of exploration and innovation together.
 
 
-<hr>
-
 ## My Current Dome of Capability
 
+<hr>
 
 ### 🌟 My Favourite Tools
 
