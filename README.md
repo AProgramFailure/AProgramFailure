@@ -42,7 +42,7 @@ Hi, I'm Anton S. Tsankov!
 	<a href="https://github.com/AProgramFailure"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
      	<a href="https://github.com/AProgramFailure"><img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=61DAFB"></a>
 </p>
-### Programming Languages I Use
+### 📜 Programming Languages I Use
 
 <p>
     	<a href="https://github.com/AProgramFailure"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
