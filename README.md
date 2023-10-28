@@ -183,12 +183,29 @@ These tools are my allies in my mission to understand, create, and innovate in t
 
 ## My GitHub Stats
 
-Take a look at my GitHub statistics to get an overview of my contributions and activity.
+<hr>
+
+### Github Throphies
+
+![](https://github-profile-trophy.vercel.app/?username=AProgramFailure=discord&no-frame=false&no-bg=false&margin-w=4)
+
+
+<hr>
+
+### Github Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AProgramFailure&show_icons=true&theme=tokyonight&count_private=true)
 
-## My Top Languages
+<hr>
 
-Explore the programming languages I frequently work with:
+### Github Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AProgramFailure=radical&hide_border=false)<br/>
+
+<hr>
+
+### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AProgramFailure&layout=compact&theme=tokyonight)
+
+<hr>
