@@ -194,7 +194,7 @@ These tools are my allies in my mission to understand, create, and innovate in t
 ### Github Statistics
 
 <p align= "center">
-  	<img height= "150" src="https://github-readme-stats.vercel.app/api?username=AProgramFailure&show_icons=true&theme=tokyonight&count_private=true" />
+  	<img height= "150" src="https://github-readme-stats.vercel.app/api?username=AProgramFailure&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&count_private=true" />
 </p>
 
 
