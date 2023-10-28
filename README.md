@@ -24,7 +24,7 @@ Hi, I'm Anton S. Tsankov!
 <pre>
 💻 |> A self taught Full Stack Developer and a Legacy System Consultant
 📚 |> A Bachelor of Science in Business Information Technology from the University of Twente
-📝 |> A strong interest in Software Development, Automization and Data Science
+📝 |> Strongly interested in Software Development, Automization and Data Science
 🌱 |> Learning every day, step by step
 🌟 |> Main languages: Typescript, Rust, Java, Elixir
 🌟 |> Main frameworks: Nuxt.js, Tokio.rs, Springboot, Phoenix
