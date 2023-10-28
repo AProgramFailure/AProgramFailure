@@ -32,9 +32,18 @@ Hi, I'm Anton S. Tsankov!
 </pre>
 <hr>
 
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages I Use
+## 🛠️|> My Favorite Tools
+<p>
+	<a href="https://github.com/AProgramFailure"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
+ 	<a href="https://github.com/AProgramFailure"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Phoenix" src="https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=61DAFB"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+     	<a href="https://github.com/AProgramFailure"><img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=61DAFB"></a>
+</p>
+### |> Programming Languages I Use
 
 <p>
     	<a href="https://github.com/AProgramFailure"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -45,6 +54,8 @@ Hi, I'm Anton S. Tsankov!
 	<a href="https://github.com/AProgramFailure"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=c&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="OCaml" src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Nim" src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
@@ -57,45 +68,55 @@ Hi, I'm Anton S. Tsankov!
 
 <p>
 	<a href="https://github.com/AProgramFailure"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
-	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
- 	<a href="https://github.com/AProgramFailure"><img alt="Springboot" src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"></a>
+ 	<a href="https://github.com/AProgramFailure"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"></a>
   	<a href="https://github.com/AProgramFailure"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Next" src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB"></a>
     	<a href="https://github.com/AProgramFailure"><img alt="Phoenix" src="https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=61DAFB"></a>
-     	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-     	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-      	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-       	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
- 	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-  	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-     	
-    
+	<a href="https://github.com/AProgramFailure"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+     	<a href="https://github.com/AProgramFailure"><img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=61DAFB"></a>
+      	<a href="https://github.com/AProgramFailure"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=61DAFB"></a>
+ 	<a href="https://github.com/AProgramFailure"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=61DAFB"></a>
+  	<a href="https://github.com/AProgramFailure"><img alt="Redux" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whit"></a>
+       	<a href="https://github.com/AProgramFailure"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+   	<a href="https://github.com/AProgramFailure"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="SurrealDB" src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Google_Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="GitHub Pages" src="https://img.shields.io/badge/SurrealDB-07405E?style=for-the-badge&logo=surrealdb&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="GitHub Pages" src="https://img.shields.io/badge/SurrealDB-07405E?style=for-the-badge&logo=surrealdb&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+   	<a href="https://github.com/AProgamFailure"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
+   	<a href="https://github.com/AProgamFailure"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+	<a href="https://github.com/AProgamFailure"><img alt="Atlassian" src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white"></a>
+	<a href="https://github.com/AProgamFailure"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-007ACC?style=for-the-badge&logo=obsidian&logoColor=white"></a>
+  	<a href="https://github.com/AProgamFailure"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+	<a href="https://github.com/AProgamFailure"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+  	<a href="https://github.com/AProgamFailure"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"></a>
+ 	<a href="https://github.com/AProgamFailure"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 </p>
 
 ### Operating Systems
 <p>
-    	<a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-	<a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-	<a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+    	<a href="https://github.com/AProgamFailure"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+	<a href="https://github.com/AProgamFailure"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+	<a href="https://github.com/AProgamFailure"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
 ## About Me
