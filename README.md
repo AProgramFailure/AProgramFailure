@@ -58,9 +58,9 @@ Hi, I'm Anton S. Tsankov!
 <p>
 	<a href="https://github.com/AProgramFailure"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
- 	<a href="https://github.com/AProgramFailure"><img alt="Springboot" src="https://img.shields.io/badge/nuxtdotjs-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"></a>
+ 	<a href="https://github.com/AProgramFailure"><img alt="Springboot" src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"></a>
   	<a href="https://github.com/AProgramFailure"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    	<a href="https://github.com/AProgramFailure"><img alt="Phoenix" src="https://img.shields.io/badge/Phoenixframework-FD4F00?style=for-the-badge&logo=phoenix&logoColor=61DAFB"></a>
+    	<a href="https://github.com/AProgramFailure"><img alt="Phoenix" src="https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=61DAFB"></a>
      	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
      	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
       	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
