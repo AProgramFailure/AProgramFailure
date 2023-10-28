@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi, I'm Anton S. Tsankov!
-	<a href="https://github.com/Bouaskaoun" target="_self">
+	<a href="https://github.com/AProgramFailure" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
@@ -15,20 +15,19 @@ Hi, I'm Anton S. Tsankov!
 <br/>
 <p align="center">
 	<a href="https://github.com/AProgramFailure">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Business+Information+Technology+BCs;Full+Stack+Developer;Legacy+Systems+Consultant;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Business+IT+BCs;Full+Stack+Developer;Legacy+Systems+Consultant;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+💻 I am a self taught Full Stack Developer and a Legacy System Consultant
+📚 I have a Bachelors inBusiness Information Technology from the University of Twente at Nederlands
+📝 I have a strong interest in SOftware Development, Automization and Data Science
+🌱 Learning every day, step by step
+🌟 Main languages: Typescript, Rust, Java, Elixir
+🌟 Main frameworks: Nuxt.js, Tokio.rs, Springboot, Phoenix
 </pre>
 <hr>
 
