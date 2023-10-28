@@ -91,8 +91,6 @@ align perfectly with my desire to create innovative solutions.
 	<a href="https://github.com/AProgramFailure"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 </p>
 
-<hr>
-
 <pre>
 As a passionate and self-taught software engineer and developer,
 I love exploring a diverse range of programming languages and frameworks 
@@ -119,7 +117,6 @@ making the world of coding endlessly fascinating.
        	<a href="https://github.com/AProgramFailure"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
 
-<hr>
 <pre>
 With a decade of experience in software engineering and development, my passion for 
 creating knows no bounds. These programming frameworks resonate with me because they 
@@ -145,7 +142,6 @@ robust projects.
 	<a href="https://github.com/AProgramFailure"><img alt="Google_Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </p>
 
-<hr>
 <pre>
 As a passionate self-taught software engineer and developer, I have a deep appreciation for
 a diverse array of databases and cloud hosting platforms. The above listed Databses offer powerful options for data management, 
@@ -167,7 +163,6 @@ with the scalability and flexibility I need to bring my creations to life.
  	<a href="https://github.com/AProgamFailure"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 </p>
 
-<hr>
 <pre>
 Colab and Jupyter provide an ideal environment for data exploration and analysis. 
 Git and GitLab empower collaborative coding, while Atlassian streamlines project management. 
