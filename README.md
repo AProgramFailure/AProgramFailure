@@ -22,16 +22,16 @@ Hi, I'm Anton S. Tsankov!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Legacy System Consultant
-📚 I have a Bachelors inBusiness Information Technology from the University of Twente at Nederlands
-📝 I have a strong interest in SOftware Development, Automization and Data Science
-🌱 Learning every day, step by step
-🌟 Main languages: Typescript, Rust, Java, Elixir
-🌟 Main frameworks: Nuxt.js, Tokio.rs, Springboot, Phoenix
+💻 |> I am a self taught Full Stack Developer and a Legacy System Consultant
+📚 |> I have a Bachelors inBusiness Information Technology from the University of Twente at Nederlands
+📝 |> I have a strong interest in SOftware Development, Automization and Data Science
+🌱 |> Learning every day, step by step
+🌟 |> Main languages: Typescript, Rust, Java, Elixir
+🌟 |> Main frameworks: Nuxt.js, Tokio.rs, Springboot, Phoenix
 </pre>
 <hr>
 
-## 🛠️|> My Favorite Tools
+## My Favorite Tools
 <p>
 	<a href="https://github.com/AProgramFailure"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"></a>
@@ -42,7 +42,7 @@ Hi, I'm Anton S. Tsankov!
 	<a href="https://github.com/AProgramFailure"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
      	<a href="https://github.com/AProgramFailure"><img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=61DAFB"></a>
 </p>
-### |> Programming Languages I Use
+### Programming Languages I Use
 
 <p>
     	<a href="https://github.com/AProgramFailure"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
