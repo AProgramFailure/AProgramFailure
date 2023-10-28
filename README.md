@@ -9,7 +9,7 @@ Hi, I'm Anton S. Tsankov!
 		<img src="https://komarev.com/ghpvc/?username=AProgramFailure&label=Profile%20views&color=0e75b6&style=flat" alt="AProgramFailure" />
 	</a>
 	<a href="https://github.com/AProgramFailure">
-		<img src="https://img.shields.io/github/followers/AProgramFailuren?label=Followers" alt="AProgramFailure" />
+		<img src="https://img.shields.io/github/followers/aprogramfailure?label=Followers" alt="aprogramfailure" />
 	</a>
 </p>
 <br/>
