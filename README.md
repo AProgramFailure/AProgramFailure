@@ -37,11 +37,10 @@ In a digital world that's constantly evolving, I find myself navigating through 
 
 With an unwavering commitment to crafting solutions, I am extremely enthusiastic about the art of creation. Welcome to my GitHub developer page, where my dedication to code and innovation is showcased. Let's embark on a journey of exploration and innovation together.
 
-<hr>
 
-## My Favorite Tools
+## My Current DOme of Capabilities
 
-<hr>
+### 🌟 My Favourite Tools
 <p>
 	<a href="https://github.com/AProgramFailure"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"></a>
@@ -123,7 +122,7 @@ With an unwavering commitment to crafting solutions, I am extremely enthusiastic
  	<a href="https://github.com/AProgamFailure"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 </p>
 
-### Operating Systems
+### 🌌 Operating Systems
 <p>
     	<a href="https://github.com/AProgamFailure"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 	<a href="https://github.com/AProgamFailure"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
