@@ -40,6 +40,8 @@ With an unwavering commitment to crafting solutions, I am extremely enthusiastic
 
 ## My Current Dome of Capability
 
+<hr>
+
 ### 🌟 My Favourite Tools
 
 <p>
@@ -53,7 +55,7 @@ With an unwavering commitment to crafting solutions, I am extremely enthusiastic
      	<a href="https://github.com/AProgramFailure"><img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=61DAFB"></a>
 </p>
 
-<hr>
+
 
 <pre>
 Embracing my passion for software development, 
