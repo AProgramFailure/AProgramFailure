@@ -42,13 +42,6 @@ With an unwavering commitment to crafting solutions, I am extremely enthusiastic
 
 ### 🌟 My Favourite Tools
 
-<hr>
-
-<pre>
-Embracing my passion for software development, I adore the versatility and power of Rust, the functional elegance of Elixir, the type safety in TypeScript, and the seamless front-end development in Vue and Nuxt. Additionally, the robustness of Phoenix, the scalability of Spring, and the cross-platform capabilities of Tauri align perfectly with my desire to create innovative solutions.
-</pre>
-<hr>
-
 <p>
 	<a href="https://github.com/AProgramFailure"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"></a>
@@ -59,6 +52,19 @@ Embracing my passion for software development, I adore the versatility and power
 	<a href="https://github.com/AProgramFailure"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
      	<a href="https://github.com/AProgramFailure"><img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=61DAFB"></a>
 </p>
+
+<hr>
+
+<pre>
+Embracing my passion for software development, 
+I adore the versatility and power of Rust, 
+the functional elegance of Elixir, the type safety in TypeScript, 
+and the seamless front-end development in Vue and Nuxt. 
+Additionally, the robustness of Phoenix, the scalability of Spring,
+and the cross-platform capabilities of Tauri 
+align perfectly with my desire to create innovative solutions.
+</pre>
+<hr>
 
 
 
