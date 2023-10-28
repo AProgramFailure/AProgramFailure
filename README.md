@@ -194,7 +194,6 @@ These tools are my allies in my mission to understand, create, and innovate in t
 ### Github Statistics
 
 <p align= "center">
-	<pre> My current Github Statistics: </pre>
   	<img height= "150" src="https://github-readme-stats.vercel.app/api?username=AProgramFailure&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
@@ -205,7 +204,6 @@ These tools are my allies in my mission to understand, create, and innovate in t
 ### Github Streak
 
 <p align= "center">
-  <pre> My current Github Streaks: </pre>
   <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=AProgramFailure&theme=radical&hide_border=false" />
 </p>
 
@@ -216,7 +214,6 @@ These tools are my allies in my mission to understand, create, and innovate in t
 ### Top Languages
 
 <p align= "center">
-  <pre> My current Github Top Languages: </pre>
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AProgramFailure&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
