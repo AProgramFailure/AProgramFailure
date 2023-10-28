@@ -22,14 +22,20 @@ Hi, I'm Anton S. Tsankov!
 <hr>
 
 <pre>
-💻 |> I am a self taught Full Stack Developer and a Legacy System Consultant
-📚 |> I have a Bachelors inBusiness Information Technology from the University of Twente at Nederlands
-📝 |> I have a strong interest in SOftware Development, Automization and Data Science
+💻 |> A self taught Full Stack Developer and a Legacy System Consultant
+📚 |> A Bachelor of Science in Business Information Technology from the University of Twente
+📝 |> A strong interest in Software Development, Automization and Data Science
 🌱 |> Learning every day, step by step
 🌟 |> Main languages: Typescript, Rust, Java, Elixir
 🌟 |> Main frameworks: Nuxt.js, Tokio.rs, Springboot, Phoenix
 </pre>
 <hr>
+
+## About Me
+
+In a digital world that's constantly evolving, I find myself navigating through its intricacies with fervor. I am a self-taught software engineer and developer with a rich decade-long journey in the realm of coding and creation. My passion lies in comprehending the vast digital landscapes of our modern world and channeling that knowledge to build platforms and applications, regardless of their scope.
+
+With an unwavering commitment to crafting solutions, I am extremely enthusiastic about the art of creation. Welcome to my GitHub developer page, where my dedication to code and innovation is showcased. Let's embark on a journey of exploration and innovation together.
 
 ## My Favorite Tools
 <p>
@@ -119,7 +125,6 @@ Hi, I'm Anton S. Tsankov!
 	<a href="https://github.com/AProgamFailure"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
-## About Me
 
 ## My GitHub Stats
 
