@@ -34,23 +34,42 @@ Hi, I'm Anton S. Tsankov!
 
 ## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages I Use
 
 <p>
-    <a href="https://github.com/AProgramFailure"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/AProgramFailure"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    	<a href="https://github.com/AProgramFailure"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=c&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+ 	<a href="https://github.com/AProgramFailure"><img alt="Springboot" src="https://img.shields.io/badge/nuxtdotjs-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"></a>
+  	<a href="https://github.com/AProgramFailure"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    	<a href="https://github.com/AProgramFailure"><img alt="Phoenix" src="https://img.shields.io/badge/Phoenixframework-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=61DAFB"></a>
+     	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+     	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+      	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+       	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+ 	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  	<a href="https://github.com/AProgramFailure"><img alt="Keras" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+     	
+    
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -70,6 +89,13 @@ Hi, I'm Anton S. Tsankov!
     <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+### Operating Systems
+<p>
+    	<a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+	<a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+	<a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
 ## About Me
