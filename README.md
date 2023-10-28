@@ -15,7 +15,7 @@ Hi, I'm Anton S. Tsankov!
 <br/>
 <p align="center">
 	<a href="https://github.com/AProgramFailure">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Business+IT+BCs;Full+Stack+Developer;Legacy+Systems+Consultant;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=440&height=50">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Business+IT+BCs;Full+Stack+Developer;Legacy+Systems+Consultant;Freelancer;Software%20Enthusiastic;Always%20learning%20new%20things&center=true&width=440&height=50">
 	</a>
 </p>
 
@@ -36,6 +36,8 @@ Hi, I'm Anton S. Tsankov!
 In a digital world that's constantly evolving, I find myself navigating through its intricacies with fervor. I am a self-taught software engineer and developer with a rich decade-long journey in the realm of coding and creation. My passion lies in comprehending the vast digital landscapes of our modern world and channeling that knowledge to build platforms and applications, regardless of their scope.
 
 With an unwavering commitment to crafting solutions, I am extremely enthusiastic about the art of creation. Welcome to my GitHub developer page, where my dedication to code and innovation is showcased. Let's embark on a journey of exploration and innovation together.
+
+<hr>
 
 ## My Favorite Tools
 <p>
