@@ -80,7 +80,7 @@ align perfectly with my desire to create innovative solutions.
 	<a href="https://github.com/AProgramFailure"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-	<a href="https://github.com/AProgramFailure"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=c&logoColor=white"></a>
+	<a href="https://github.com/AProgramFailure"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="OCaml" src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Nim" src="https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
