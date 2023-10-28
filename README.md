@@ -179,6 +179,7 @@ These tools are my allies in my mission to understand, create, and innovate in t
 	<a href="https://github.com/AProgamFailure"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
+<hr>
 
 ## My GitHub Stats
 
