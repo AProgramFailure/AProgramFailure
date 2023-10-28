@@ -39,6 +39,7 @@ With an unwavering commitment to crafting solutions, I am extremely enthusiastic
 
 
 <hr>
+
 ## My Current Dome of Capability
 
 
