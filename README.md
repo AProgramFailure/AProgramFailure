@@ -40,6 +40,8 @@ With an unwavering commitment to crafting solutions, I am extremely enthusiastic
 <hr>
 
 ## My Favorite Tools
+
+<hr>
 <p>
 	<a href="https://github.com/AProgramFailure"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 	<a href="https://github.com/AProgramFailure"><img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"></a>
@@ -50,6 +52,7 @@ With an unwavering commitment to crafting solutions, I am extremely enthusiastic
 	<a href="https://github.com/AProgramFailure"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
      	<a href="https://github.com/AProgramFailure"><img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=61DAFB"></a>
 </p>
+<hr>
 
 ### 📜 Programming Languages I Use
 
