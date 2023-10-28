@@ -186,8 +186,12 @@ These tools are my allies in my mission to understand, create, and innovate in t
 <hr>
 
 ### Github Throphies
+<div align="center">	
+	<p> Hello!</p>
+	![](https://github-profile-trophy.vercel.app/?username=AProgramFailure&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=AProgramFailure&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 <hr>
